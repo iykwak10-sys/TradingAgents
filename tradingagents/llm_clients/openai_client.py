@@ -141,6 +141,10 @@ class OpenAIClient(BaseLLMClient):
 
     def get_llm(self) -> Any:
         """Return configured ChatOpenAI instance."""
+        # 만약 모델명이 잘못된 gpt-5.4-mini라면 deepseek-v4-pro로 교체
+        if self.model == "gpt-5.4-mini":
+            self.model = "deepseek-v4-pro"
+            
         self.warn_if_unknown_model()
         llm_kwargs = {"model": self.model}
 

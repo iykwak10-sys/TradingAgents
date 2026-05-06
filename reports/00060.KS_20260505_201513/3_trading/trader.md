@@ -1,0 +1,4 @@
+**Recommendation: SELL** (or reduce exposure by 60–70% if currently holding; avoid new positions).
+
+**Rationale:**  
+The research plan rates the stock **Underweight**, citing extreme technical overextension (RSI 78.79, 130% above the 200‑day SMA), decelerating MACD momentum, historical mean‑reversion patterns, seasonal headwinds, and unverifiable fundamental data. The risk/reward is asymmetrically negative in the near term (1–2 months), with a high probability of a 15–25% correction. For existing holders, trimming the majority of the position and setting a trailing stop at 1,290,000 won is the prudent action. For new entrants, waiting for a pullback to the 1,150,000–1,200,000 range offers a much better entry point. Therefore, the immediate actionable step is to **sell** (reduce exposure) rather than buy or hold at current levels.
